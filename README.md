@@ -9,5 +9,5 @@ Building software and running growth for clients. More at [softscotch.com](https
 - [OneTradeJournal](https://onetradejournal.com): Built to build a habit. Consistent trade logging plus AI coaching turns scattered trades into real self-awareness and discipline over time.
 
 **Services**
-- Agency: $28M+ in client revenue, 87,200+ leads generated, 2,140+ #1-page Google rankings. One agency, one flat fee. More at [softscotch.com](https://softscotch.com).
-- [Launch](https://launch.softscotch.com): The entire marketing stack for local service businesses: website, SEO, CRM, and follow-up. Done for you, run by AI, owned by you.
+- Agency: $28M+ in client revenue, 87,200+ leads generated, 2,140+ #1-page Google rankings. One agency, 23+ services, one flat monthly fee. More at [softscotch.com](https://softscotch.com).
+- [Launch by Softscotch](https://launch.softscotch.com): The entire marketing stack for local service businesses: website, SEO, CRM, and follow-up. Done for you, run by AI, handled and monitored by team at Softscotch.
