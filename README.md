@@ -1,16 +1,13 @@
-## Hi there 👋
+### Sanju — Founder, Softscotch
 
-<!--
-**sanjuujosephh/sanjuujosephh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building software and running growth for clients. More at [softscotch.com](https://softscotch.com).
 
-Here are some ideas to get you started:
+**Products**
+- [PostInstantly](https://postinstantly.com) — AI writing + scheduling for LinkedIn, X and Reddit
+- [BrandsForCreators](https://brandsforcreators.com) — marketplace connecting brands with creators
+- [DarnItSEO](https://darnitseo.com) — automated SEO audits
+- [OneTradeJournal](https://onetradejournal.com) — AI-powered trading journal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Services**
+- Agency — done-for-you SEO & growth → [softscotch.com](https://softscotch.com)
+- [Launch](https://launch.softscotch.com) — landing page + SEO audit program
